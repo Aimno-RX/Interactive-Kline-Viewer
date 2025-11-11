@@ -11,7 +11,7 @@
 
 下面为程序实际界面效果图：
 
-![应用界面预览](./effect/1.png)(./effect/2.png)(./effect/3.png)
+![应用界面预览](./effect/1.png./effect/2.png./effect/3.png)
 
 > 如果你希望界面图更加清晰，我可以帮你生成更专业的展示封面与界面排版。
 
